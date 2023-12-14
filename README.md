@@ -1,4 +1,4 @@
-# SimGUI2.0
+# SimGUI
 ## Introduction
 This is a GUI for FSAI simulations. It has options to test and simulate different modules on different simulators. This GUI is built using CustomTkinter.
 
